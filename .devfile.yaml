@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
-  name: sample-using-parent
+  name: sample-using-parent-fgfg-gfdgd-gdgfdf-gdgdgf-gdgd
 parent:
   uri: https://raw.githubusercontent.com/testsfactory/parentDevfile/main/parent.yaml
   components:
